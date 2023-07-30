@@ -31,7 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-jason-fos-p4blog-walkthr-mkpz7zxmdm.us2.codeanyapp.com',
-    'i-think-blog.herokuapp.com',
+    'i-think-blog-4949b1d38a9f.herokuapp.com',
     'localhost',
     ]
 
